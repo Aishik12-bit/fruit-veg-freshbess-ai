@@ -1,4 +1,4 @@
-# fruit-veg-freshbess-ai
+# fruit-veg-freshness-ai
 
 # A Simple Freshness Classification Model (Using MobileNet V2)
 
